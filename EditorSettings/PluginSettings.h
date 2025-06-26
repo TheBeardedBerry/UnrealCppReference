@@ -38,10 +38,6 @@ enum class EMyEnum : uint8
 };
 
 /**
- * 
- */
- 
-/**
  * config=Editor               defines the section of the project settings page your settings will appear in
  * defaultconfig               tells the editor to put these settings in the Default____.ini files (the ones that arent distributed to users).
  * DisplayName="My Plugin"     is the title of the settings page
